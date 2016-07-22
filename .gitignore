@@ -1,0 +1,20 @@
+vendor/
+/bower_components
+/node_modules
+<<<<<<< HEAD
+npm-debug.log
+=======
+>>>>>>> a870937070ebaec2acde929447d9c621eeeb6a69
+
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+# Laravel 5 & Lumen specific
+bootstrap/cache/
+.env.*.php
+.env.php
+.env
+
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+.rocketeer/
